@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lemnick13
 - 👀 I’m interested in CyberSecurity, IoT hacking, Cryptography, Steganography, and Lockpicking
 - 🌱 I’m currently learning material for my CompTIA A+ and Security+ Cetifications
-- 💞️ I’m looking to collaborate on anything to do with python, game development, websites, just dm me
+- 💞️ I’m looking to collaborate on anything to do with Python, Game Development, Websites, just dm me
 - 📫 How to reach me: Email me at lemnick13@gmail.com or @studiowack#0000 on discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:
